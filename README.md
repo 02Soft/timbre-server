@@ -1,1 +1,3 @@
-# timbre-server
+# Timbre REST API
+
+README is in progress...
