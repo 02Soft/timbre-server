@@ -6,7 +6,7 @@ certifi==2018.4.16
 cfn-flip==1.0.3
 chardet==3.0.4
 click==6.7
-Django==2.0.5
+Django==2.2.13
 django-split-settings==0.3.0
 djangorestframework==3.8.2
 djangorestframework-jwt==1.11.0
